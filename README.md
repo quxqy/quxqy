@@ -9,8 +9,6 @@
 
 • 🤝 I’m looking for help with **AWS, SQL**
 
-• 📝 I regularly write articles on [https://t.me/quxqy](https://t.me/quxqy)
-
 • ⚡ Fact **I worked as a system administrator**
 </p>
 
