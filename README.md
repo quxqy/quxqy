@@ -1,15 +1,15 @@
 ![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:1600/1*5fIUIzQrNVPBzeQZiLM27w.gif)
 <h1 align="center">I'm quxqy</h1>
-<h3 align="center">Future DevOps engineer</h3>
+<h3 align="center">Future С++ Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quxqy&label=Profile%20views&color=0e75b6&style=flat" alt="quxqy" /> </p>
 
-• 🌱 I’m currently learning **DevOps**
+• 🌱 I’m currently learning **С++**
 
-• 🤝 I’m looking for help with **AWS, SQL**
+• 🤝 I’m looking for help with **C++, SQL**
 
-• ⚡ Fact **I worked as a system administrator**
+• ⚡ Work ****I worked as a system administrator****
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
