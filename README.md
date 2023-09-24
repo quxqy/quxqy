@@ -9,7 +9,7 @@
 
 • 🤝 I’m looking for help with **C++, SQL**
 
-• ⚡ Work ****I worked as a system administrator****
+• ⚡ Work **I don't have a job, I'm a student**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
